@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "480766919778",
+    "firebase_url": "https://ir-interesting-cases-default-rtdb.firebaseio.com",
+    "project_id": "ir-interesting-cases",
+    "storage_bucket": "ir-interesting-cases.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480766919778:android:a8977b5f7c118eeba2bd3b",
+        "android_client_info": {
+          "package_name": "com.example.ir_interesting_cases"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480766919778-a3gmdj7fnkdo9e6nl7h0u0ld5gi5ldj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsPCzs7turk6DlJ_Ug1xwYnEYcfF-Q8l8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480766919778-a3gmdj7fnkdo9e6nl7h0u0ld5gi5ldj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
